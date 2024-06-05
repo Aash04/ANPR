@@ -161,7 +161,7 @@ class PhotoBoothApp:
         body = "kindly Find Attachment"
         # sent the mail
         yag.send(
-            to="i4usmriti@gmail.com",
+            to="your email ID",
             subject=sub,  # email subject
             contents=body,  # email body
             attachments=filename  # file attached
